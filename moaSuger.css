@@ -1,0 +1,10 @@
+body {
+    background-image: url("img/ful.jpg");
+    background-color: #cccccc;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    border: dotted purple ;
+}
